@@ -1,4 +1,23 @@
 
+Instructions for cloning and viewing the project
+
+cloning
+1. You should use a programming IDE (Visual Studio Code is suggested).
+
+2. Press the alt+shift+p keys simultaneously
+
+3. copy git clone
+
+4. paste the following link https://github.com/edwar198720Arthas/Clipboard.git
+
+It would already be cloned
+
+viewing
+
+1. Click the button at the bottom that says Go Live
+
+2. A web page will open for you to view it locally.
+
 names: Edwar Jamison
 surnames: Rios Tobon
 
