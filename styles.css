@@ -1,0 +1,325 @@
+
+
+/* ---------Section header--------- */
+
+.frame36 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    padding: 10px 0;
+    background-color: #F5F7FA;
+}
+
+.frame36 .logo {
+    flex-shrink: 0;
+    margin-right: 20px;
+}
+
+
+.grup-2229 {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+}
+
+.grup-2229 li {
+    margin: 0 10px;
+}
+
+.grup-2229 li a {
+    text-decoration: none;
+    color: #18191F;
+}
+
+
+
+.login {
+    border: none;
+    background-color: #F5F7FA;
+    color: #4CAF4F;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 14px;
+    padding: 15px;
+}
+
+.sign-up {
+    border: none;
+    background-color: #4CAF4F;
+    color: #FFFFFF;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 14px;
+    padding: 15px;
+}
+
+/* ---------Section home --------- */
+
+.home {
+    background-color: #F5F7FA;
+}
+
+/* --------- hero section--------- */
+
+.hero-section {
+    display: flex;
+    gap: 15px;
+    width: 100%;
+    padding: 20px;
+    flex-flow: row wrap;
+}
+
+.frame-1 h1 {
+    color: #4D4D4D;
+    font-size: 64px;
+}
+
+.frame-1 p {
+color: #717171;
+font-size: 16px;
+}
+
+.frame-1 .green {
+    color: #4CAF4F;
+}
+
+.cta-button {
+border: none;
+    background-color: #4CAF4F;
+    color: #FFFFFF;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 20px;
+}
+
+.points {
+    align-content: end;
+}
+
+/* --------- clients section--------- */
+.clients {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.clients1 {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.clients1 h2 {
+    font-size: 36px;
+    color: #18191F;
+}
+.clients1 p {
+    font-size: 16px;
+    color: #717171;
+}
+
+.clients-logos {
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
+}
+
+/* --------- clients comunity--------- */
+
+.comunity {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.comunity h2 {
+    color: #4D4D4D;
+    font-size: 36px;
+    align-items: center;
+}
+
+.comunity p {
+    color: #717171;
+    font-size: 16px;
+    align-items: center;
+}
+
+.frame-4 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.menbership-organizarion {
+    border: 1px solid;
+    align-content: center;
+}
+
+/* ---------Section body --------- */
+
+.body {
+    
+}
+
+/* ---------Section Unlock --------- */
+
+.unlock {
+    display: flex;
+    padding: 100px;
+    gap: 400px;
+    flex-wrap: wrap;
+
+}
+
+.frame-35 {
+    width: 20%;
+}
+
+.frame-6 {
+    width: 40%;
+}
+
+.unlock h2 {
+    color: #4D4D4D;
+    font-size: 36px;
+}
+
+.unlock p {
+    color: #717171;
+    font-size: 14px;
+}
+
+/* ---------Section achievenments --------- */
+
+.achievenments {
+    display: flex;
+    width: 100%;
+    background-color: #F5F7FA;
+    justify-content: space-around;
+}
+
+.achievenments h2 {
+    color: #4D4D4D;
+    font-size: 36px;
+}
+
+.achievenments .green {
+    color:#4CAF4F ;
+}
+
+.achievenments p {
+    color: #18191F;
+    font-size: 16px;
+}
+
+.counts {
+    justify-items:baseline;
+}
+
+.row-1 {
+    justify-content: space-around;
+}
+
+/* ---------Section calender --------- */
+
+.calender {
+    display: flex;
+    padding: 100px;
+    gap: 400px;
+    flex-wrap: wrap;
+}
+
+.calender h2 {
+    color: #4D4D4D;
+    font-size: 36px;
+}
+
+.calender p {
+    color: #717171;
+    font-size: 14px;
+}
+
+/* ---------Section customer --------- */
+
+.customers {
+    display: flex;
+    align-items: center;
+}
+
+.customers p {
+    color: #717171;
+    font-size: 16px;
+}
+
+.customers h4 {
+    color: #4CAF4F;
+    font-size: 20px;
+}
+
+.frame-11 {
+    justify-items: auto;
+}
+
+.frame-14 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+}
+
+/* ---------Section community-updates --------- */
+
+.community-updates {
+display: flex;
+flex-direction: column;
+align-items: center;
+width: 100%;
+}
+
+.comunity2 {
+    justify-items: center;
+}
+
+.community-updates h2 {
+    color: #4D4D4D;
+    font-size: 36px;
+}
+
+.community-updates p{
+    color: #717171;
+    font-size: 16px
+}
+
+.content2 {
+    justify-items: center;
+    border: 1px solid;
+
+}
+
+.content2 h4 {
+    color: #4CAF4F;
+    font-size: 20px;
+}
+
+/* ---------Section footer --------- */
+
+.footer-big {
+    background-color: #263238;
+    display: flex;
+}
+
+.links {
+    display: flex;
+    align-content: center;
+}
